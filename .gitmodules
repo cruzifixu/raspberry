@@ -1,0 +1,6 @@
+[submodule "raspberry/vendor/spdlog"]
+	path = raspberry/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "raspberry/vendor/GLFW"]
+	path = raspberry/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
